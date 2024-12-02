@@ -3,7 +3,7 @@
 Machine Learning related stuff for EduCollab, A mobile-based application to recap student grade reports with features that can predict student performance and can perform sentiment analysis on comments that teachers give on student grade reports..
 
 ## Dataset
-We using dataset from [keagle](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression) to predict performance student and we make [our own custom-made dataset](https://github.com/dennyrianto/asterisk-machine-learning/blob/main/data/dataset_final.parquet), to sentiment analysis, we using ChatGPT and Gemini to collect data to train model.:
+We using dataset from [keagle](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression) to predict performance student and we make [our own custom-made dataset](https://github.com/FachryYusrie/educollab-machine-learning/blob/main/teacher_reviews_student_performance_train.csv), to sentiment analysis, we using ChatGPT and Gemini to collect data to train model.
 
 ## Data Preprocessing
 For the preprocessing step, you can check to this below:

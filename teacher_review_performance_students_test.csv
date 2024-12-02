@@ -1,0 +1,201 @@
+﻿Sentiment,Label
+"""Siswa ini selalu menunjukkan semangat belajar yang tinggi.""  ",1
+"""Ia mampu menyelesaikan tugas dengan sangat baik dan tepat waktu.""  ",1
+"""Sikapnya yang aktif di kelas sangat membantu suasana belajar.""  ",1
+"""Ia memiliki kemampuan berpikir kritis yang luar biasa.""  ",1
+"""Prestasinya dalam mata pelajaran ini terus meningkat.""  ",1
+"""Ia selalu bersedia membantu teman yang kesulitan memahami materi.""  ",1
+"""Tugas yang ia kumpulkan selalu rapi dan sesuai dengan instruksi.""  ",1
+"""Kemampuan presentasinya di depan kelas sangat mengesankan.""  ",1
+"""Ia menunjukkan kemajuan pesat dalam memahami konsep sulit.""  ",1
+"""Sikapnya yang sopan dan menghormati guru patut dicontoh.""  ",1
+"""Ia selalu datang ke kelas dengan persiapan yang matang.""  ",1
+"""Kemampuan kerjasamanya dalam kelompok sangat baik.""  ",1
+"""Ia mampu memberikan ide kreatif saat diskusi kelas.""  ",1
+"""Hasil pekerjaannya menunjukkan pemahaman mendalam terhadap materi.""  ",1
+"""Ia memiliki disiplin yang tinggi dalam belajar.""  ",1
+"""Siswa ini selalu berusaha maksimal dalam setiap tugas yang diberikan.""  ",1
+"""Ia mampu memecahkan masalah dengan pendekatan yang logis.""  ",1
+"""Prestasinya yang konsisten membuatnya menjadi inspirasi bagi teman-temannya.""  ",1
+"""Ia memiliki ketekunan yang luar biasa dalam belajar.""  ",1
+"""Partisipasinya yang aktif dalam proyek kelompok sangat membantu keberhasilan tim.""  ",1
+"""Ia selalu menunjukkan rasa ingin tahu yang tinggi terhadap pelajaran.""  ",1
+"""Ia mampu memimpin kelompok dengan baik dan adil.""  ",1
+"""Hasil ujian menunjukkan peningkatan yang signifikan dari sebelumnya.""  ",1
+"""Ia selalu berusaha memperbaiki kekurangan dengan bekerja lebih keras.""  ",1
+"""Kemampuannya untuk memahami materi sulit sangat luar biasa.""  ",1
+"""Ia menunjukkan sikap yang sangat bertanggung jawab terhadap tugasnya.""  ",1
+"""Ia selalu berusaha memberikan hasil terbaik dalam setiap tugas.""  ",1
+"""Kemajuan belajarnya mencerminkan usaha keras yang ia lakukan.""  ",1
+"""Sikapnya yang ramah membuat suasana belajar menjadi lebih menyenangkan.""  ",1
+"""Ia mampu menyelesaikan soal dengan cara yang sangat efektif.""  ",1
+"""Ia memiliki inisiatif tinggi untuk belajar di luar jam pelajaran.""  ",1
+"""Ia mampu menjelaskan konsep dengan baik kepada teman-temannya.""  ",1
+"""Kreativitasnya dalam menyelesaikan tugas patut diapresiasi.""  ",1
+"""Ia selalu hadir tepat waktu dan siap mengikuti pelajaran.""  ",1
+"""Siswa ini selalu berusaha menjaga kualitas hasil pekerjaannya.""  ",1
+"""Kemampuannya dalam bekerja di bawah tekanan sangat mengesankan.""  ",1
+"""Ia mampu menganalisis masalah dengan sangat baik.""  ",1
+"""Ia selalu menghormati aturan kelas dan menunjukkan kedewasaan.""  ",1
+"""Sikapnya yang positif sangat memotivasi teman-teman sekelas.""  ",1
+"""Ia mampu menyelesaikan proyek individu dengan hasil yang memuaskan.""  ",1
+"""Ia menunjukkan rasa percaya diri yang tinggi dalam berbicara di depan umum.""  ",1
+"""Siswa ini selalu mencari cara untuk memperdalam pemahaman materi.""  ",1
+"""Ia mampu mengikuti ritme pelajaran dengan sangat baik.""  ",1
+"""Sikapnya yang proaktif sangat membantu kelancaran kelas.""  ",1
+"""Ia memiliki rasa tanggung jawab yang besar terhadap pendidikan.""  ",1
+"""Kemampuannya dalam multitasking sangat mengesankan.""  ",1
+"""Ia selalu memberikan perhatian penuh selama pelajaran berlangsung.""  ",1
+"""Ia mampu menjaga konsistensi hasil kerja yang sangat baik.""  ",1
+"""Sikapnya yang selalu terbuka terhadap kritik sangat patut dicontoh.""  ",1
+"""Hasil pekerjaannya menunjukkan dedikasi tinggi terhadap tugasnya.""  ",1
+"""Ia sering terlambat masuk kelas tanpa alasan yang jelas.""   ",0
+"""Sikapnya yang kurang fokus membuat ia sulit memahami materi.""   ",0
+"""Ia jarang menyelesaikan tugas tepat waktu.""   ",0
+"""Hasil tes menunjukkan bahwa ia tidak memahami materi dasar.""   ",0
+"""Ia sering mengganggu teman selama pelajaran berlangsung.""   ",0
+"""Sikapnya yang pasif di kelas menghambat perkembangan belajarnya.""   ",0
+"""Ia kurang memiliki inisiatif untuk bertanya ketika tidak paham.""   ",0
+"""Tugas yang diserahkan sering kali tidak lengkap.""   ",0
+"""Ia sering lupa membawa perlengkapan sekolah.""   ",0
+"""Sikapnya yang tidak disiplin menghambat kemajuannya.""   ",0
+"""Ia sering meninggalkan kelas tanpa izin.""   ",0
+"""Hasil kerjanya menunjukkan kurangnya usaha dalam belajar.""   ",0
+"""Ia sering tidak memperhatikan penjelasan guru.""   ",0
+"""Ia kurang memiliki rasa tanggung jawab terhadap tugas.""   ",0
+"""Kemampuan akademiknya belum menunjukkan perkembangan signifikan.""   ",0
+"""Ia sering berbicara sendiri selama pelajaran berlangsung.""   ",0
+"""Sikapnya yang malas belajar memengaruhi hasil ujiannya.""   ",0
+"""Ia jarang mengikuti kegiatan tambahan untuk mengejar ketertinggalan.""   ",0
+"""Kemampuannya dalam menyelesaikan soal sangat rendah.""   ",0
+"""Ia sering menunjukkan sikap tidak sopan terhadap teman dan guru.""   ",0
+"""Ia cenderung mengabaikan tugas kelompok.""   ",0
+"""Sikapnya yang acuh membuat ia sulit mengikuti pelajaran.""   ",0
+"""Ia jarang membaca materi sebelum kelas dimulai.""   ",0
+"""Hasil pekerjaannya menunjukkan kurangnya perhatian terhadap detail.""   ",0
+"""Ia sering bermain ponsel selama pelajaran berlangsung.""   ",0
+"""Ia membutuhkan banyak dorongan untuk menyelesaikan tugas.""   ",0
+"""Sikapnya yang tergesa-gesa menyebabkan banyak kesalahan.""   ",0
+"""Ia kurang menunjukkan rasa ingin tahu terhadap pelajaran.""   ",0
+"""Ia sering datang terlambat ke kelas.""   ",0
+"""Tugasnya sering tidak sesuai dengan instruksi yang diberikan.""   ",0
+"""Ia kurang memahami pentingnya belajar mandiri.""   ",0
+"""Ia menunjukkan ketergantungan pada teman dalam menyelesaikan tugas.""   ",0
+"""Hasil ujiannya sering berada di bawah rata-rata kelas.""   ",0
+"""Ia sering melupakan deadline tugas yang diberikan.""   ",0
+"""Sikapnya yang tidak kooperatif memengaruhi kerja tim.""   ",0
+"""Ia kurang memanfaatkan waktu belajar dengan efektif.""   ",0
+"""Sikapnya yang kurang serius menghambat potensi dirinya.""   ",0
+"""Ia sering lupa membawa buku catatan ke kelas.""   ",0
+"""Ia menunjukkan sedikit usaha untuk memperbaiki nilai.""   ",0
+"""Hasil pekerjaannya sering tidak sesuai standar.""   ",0
+"""Ia kurang memanfaatkan waktu tambahan yang diberikan untuk belajar.""   ",0
+"""Ia jarang mempersiapkan diri sebelum menghadapi ujian.""   ",0
+"""Kemampuan membaca dan menulisnya perlu banyak perbaikan.""   ",0
+"""Ia sering mengeluh saat diberikan tugas tambahan.""   ",0
+"""Sikapnya yang malas belajar memengaruhi teman sekelas.""   ",0
+"""Ia jarang memperhatikan penjelasan selama pelajaran.""   ",0
+"""Ia sering menunjukkan sikap tidak peduli terhadap hasil belajar.""   ",0
+"""Ia kurang mampu bekerja di bawah tekanan.""   ",0
+"""Ia perlu lebih sering berkomunikasi dengan guru tentang kesulitannya.""   ",0
+"""Sikapnya yang acuh membuat ia sulit untuk berkembang.""    ",0
+"""Siswa ini selalu bersemangat dalam belajar dan menyelesaikan tugas tepat waktu.""    ",1
+"""Ia menunjukkan peningkatan yang luar biasa dalam pemahaman materi.""    ",1
+"""Partisipasinya dalam diskusi kelas sangat membantu teman-temannya.""    ",1
+"""Ia memiliki kreativitas tinggi dalam mengerjakan tugas proyek.""    ",1
+"""Prestasinya di ujian terakhir sangat memuaskan.""    ",1
+"""Ia selalu menunjukkan sikap disiplin dan tanggung jawab dalam belajar.""    ",1
+"""Siswa ini mampu memimpin kelompok dengan baik.""    ",1
+"""Kemampuannya memahami materi sulit sangat luar biasa.""    ",1
+"""Ia mampu memberikan solusi kreatif dalam menyelesaikan masalah.""    ",1
+"""Tugas yang dikerjakannya selalu rapi dan tepat sasaran.""    ",1
+"""Ia menunjukkan minat besar terhadap pelajaran dan selalu bertanya jika tidak paham.""    ",1
+"""Kemajuan belajarnya mencerminkan usaha keras yang konsisten.""    ",1
+"""Siswa ini sangat mandiri dan inisiatif dalam belajar.""    ",1
+"""Ia selalu menunjukkan rasa hormat kepada guru dan teman-temannya.""    ",1
+"""Kemampuannya dalam bekerja sama di kelompok sangat baik.""    ",1
+"""Ia menunjukkan bakat luar biasa dalam menyelesaikan proyek sains.""    ",1
+"""Hasil pekerjaannya mencerminkan dedikasi tinggi.""    ",1
+"""Ia selalu hadir di kelas dengan persiapan matang.""    ",1
+"""Siswa ini memiliki kemampuan komunikasi yang sangat baik.""    ",1
+"""Ia selalu aktif dalam kegiatan ekstrakurikuler tanpa mengabaikan akademiknya.""    ",1
+"""Kemampuannya dalam presentasi sangat menginspirasi teman-temannya.""    ",1
+"""Ia mampu menganalisis materi dengan sangat baik.""    ",1
+"""Prestasinya terus meningkat di setiap ujian.""    ",1
+"""Ia selalu membantu teman yang kesulitan belajar.""    ",1
+"""Sikapnya yang ramah membuat suasana kelas lebih menyenangkan.""    ",1
+"""Kemampuannya dalam berpikir kritis sangat luar biasa.""    ",1
+"""Ia mampu menjaga konsistensi hasil kerja yang baik.""    ",1
+"""Ia selalu berusaha memperbaiki kekurangan dengan cepat.""    ",1
+"""Hasil proyek kelompoknya mencerminkan kerja kerasnya.""    ",1
+"""Ia menunjukkan kemajuan yang signifikan dalam mata pelajaran ini.""    ",1
+"""Sikapnya yang penuh inisiatif patut diapresiasi.""    ",1
+"""Ia mampu menjelaskan konsep yang rumit dengan sederhana.""    ",1
+"""Siswa ini memiliki jiwa kepemimpinan yang sangat baik.""    ",1
+"""Ia selalu tepat waktu dalam menyelesaikan tugas.""    ",1
+"""Kemampuannya dalam multitasking sangat membantu proyek kelompok.""    ",1
+"""Ia memiliki pemahaman mendalam terhadap materi yang diajarkan.""    ",1
+"""Sikapnya yang optimis sangat memotivasi teman sekelasnya.""    ",1
+"""Ia selalu berusaha memahami materi sebelum pelajaran dimulai.""    ",1
+"""Kemampuannya dalam menyelesaikan soal ujian sangat mengesankan.""    ",1
+"""Sikapnya yang rendah hati membuat ia disukai oleh teman dan guru.""    ",1
+"""Ia mampu mempertahankan konsistensi hasil belajar yang tinggi.""    ",1
+"""Kreativitasnya dalam menyelesaikan tugas selalu luar biasa.""    ",1
+"""Ia selalu memanfaatkan waktu belajar dengan maksimal.""    ",1
+"""Siswa ini memiliki rasa ingin tahu yang tinggi.""    ",1
+"""Ia menunjukkan kemajuan pesat dalam memahami konsep yang sulit.""    ",1
+"""Sikapnya yang disiplin menjadi contoh bagi siswa lain.""    ",1
+"""Ia selalu menghormati aturan kelas dan memberikan kontribusi positif.""    ",1
+"""Kemampuannya dalam bekerja di bawah tekanan sangat luar biasa.""    ",1
+"""Ia menunjukkan dedikasi tinggi terhadap tugas sekolah.""    ",1
+"""Hasil tes menunjukkan peningkatan yang signifikan berkat kerja kerasnya.""     ",1
+"""Ia sering terlambat masuk kelas tanpa alasan yang jelas.""   ",0
+"""Sikapnya yang kurang serius menghambat kemajuannya.""   ",0
+"""Ia jarang menyelesaikan tugas tepat waktu.""   ",0
+"""Kemampuan membaca dan menulisnya memerlukan perbaikan.""   ",0
+"""Hasil ujiannya menunjukkan pemahaman materi yang masih rendah.""   ",0
+"""Ia sering lupa membawa perlengkapan sekolah.""   ",0
+"""Tugasnya sering tidak lengkap atau sesuai instruksi.""   ",0
+"""Ia kurang menunjukkan inisiatif untuk belajar lebih giat.""   ",0
+"""Ia sering bermain sendiri selama pelajaran berlangsung.""   ",0
+"""Hasil proyeknya menunjukkan kurangnya usaha.""   ",0
+"""Ia jarang bertanya ketika tidak memahami materi.""   ",0
+"""Sikapnya yang kurang disiplin memengaruhi teman sekelas.""   ",0
+"""Ia sering meninggalkan kelas tanpa izin.""   ",0
+"""Kemajuan belajarnya sangat lambat.""   ",0
+"""Ia sering mengabaikan aturan kelas.""   ",0
+"""Hasil pekerjaannya menunjukkan kurangnya perhatian terhadap detail.""   ",0
+"""Ia kurang memanfaatkan waktu belajar dengan baik.""   ",0
+"""Kemampuan kerjasamanya dalam kelompok masih rendah.""   ",0
+"""Ia sering lupa mengumpulkan tugas tepat waktu.""   ",0
+"""Sikapnya yang pasif menghambat perkembangan belajarnya.""   ",0
+"""Ia sering menunjukkan ketidaksopanan terhadap guru.""   ",0
+"""Kemampuan problem-solving-nya perlu ditingkatkan.""   ",0
+"""Ia jarang mempersiapkan diri sebelum ujian.""   ",0
+"""Hasil tesnya sering berada di bawah rata-rata.""   ",0
+"""Ia menunjukkan ketergantungan yang tinggi pada teman dalam belajar.""   ",0
+"""Ia sering tidak memperhatikan penjelasan guru.""   ",0
+"""Kemampuan akademiknya belum berkembang secara signifikan.""   ",0
+"""Ia sering mengganggu teman selama pelajaran berlangsung.""   ",0
+"""Sikapnya yang kurang fokus membuat ia sulit menyerap materi.""   ",0
+"""Ia jarang hadir tepat waktu ke kelas.""   ",0
+"""Hasil tugasnya sering tidak memenuhi standar yang diharapkan.""   ",0
+"""Ia membutuhkan banyak dorongan untuk menyelesaikan tugas.""   ",0
+"""Ia kurang menunjukkan rasa tanggung jawab terhadap pekerjaannya.""   ",0
+"""Sikapnya yang malas belajar memengaruhi hasil belajarnya.""   ",0
+"""Ia sering mengeluh saat diberikan tugas tambahan.""   ",0
+"""Hasil pekerjaannya mencerminkan kurangnya usaha.""   ",0
+"""Ia jarang berpartisipasi aktif dalam diskusi kelas.""   ",0
+"""Sikapnya yang acuh menghambat potensi belajarnya.""   ",0
+"""Ia sering bermain ponsel saat pelajaran berlangsung.""   ",0
+"""Ia jarang memanfaatkan bantuan yang ditawarkan oleh guru.""   ",0
+"""Kemampuan analisisnya perlu banyak peningkatan.""   ",0
+"""Ia sering lupa mencatat materi yang diajarkan.""   ",0
+"""Sikapnya yang tidak serius memengaruhi kelompoknya.""   ",0
+"""Ia kurang memiliki rasa ingin tahu terhadap materi pelajaran.""   ",0
+"""Hasil pekerjaannya menunjukkan minimnya persiapan.""   ",0
+"""Ia sering meninggalkan tugas sekolah tanpa diselesaikan.""   ",0
+"""Kemampuannya memahami konsep-konsep dasar masih sangat rendah.""   ",0
+"""Ia menunjukkan sedikit usaha untuk memperbaiki nilai yang buruk.""   ",0
+"""Hasil ujiannya mencerminkan kurangnya fokus dalam belajar.""   ",0
+"""Ia sering lupa mengerjakan pekerjaan rumah.""    ",0

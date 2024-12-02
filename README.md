@@ -14,4 +14,4 @@ For the preprocessing step, you can check to this below:
 For the model architecture, we built a model from scratch using neural networks and Natural Language Processing (NLP) from TensorFlow and fine tuned the model. We trained the model using our dataset. The model produces several outputs corresponding to different sentiment aspects. Then we converted our model to Tensorflow.js format for deployment.
 
 - [Model_feature_one File (SavedModel Format)](https://drive.google.com/file/d/1iu_hIZLIFaDeruR8wB_3Cwn-gv5IgKEw/view?usp=drive_link)
-- [Model_feature_twi File (SavedModel Format)](https://drive.google.com/file/d/1iu_hIZLIFaDeruR8wB_3Cwn-gv5IgKEw/view?usp=drive_link)
+- [Model_feature_two File (SavedModel Format)](https://drive.google.com/file/d/1iu_hIZLIFaDeruR8wB_3Cwn-gv5IgKEw/view?usp=drive_link)

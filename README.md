@@ -1,4 +1,4 @@
-# Educollab Machine Learning
+# EduCollab Machine Learning
 
 Machine Learning related stuff for EduCollab, A mobile-based application to recap student grade reports with features that can predict student performance and can perform sentiment analysis on comments that teachers give on student grade reports..
 
